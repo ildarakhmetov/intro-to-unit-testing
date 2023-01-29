@@ -1,2 +1,3 @@
-# intro-to-unit-testing
-Intro to Unit Testing (sample lecture)
+# Intro to Unit Testing
+
+Files for the sample lecture.
