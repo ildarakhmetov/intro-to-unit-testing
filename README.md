@@ -10,7 +10,7 @@ Prerequisites:
 * Any IDE (e.g. VS Code, IDLE, Wing IDE etc.)
 * `pytest` installed (run `pip install pytest` in your terminal to install `pytest`.)
 
-Fork this GitHub repository above, or simply use it in your browser and copy-paste the code into your IDE.
+Fork this GitHub repository, or simply use it in your browser and copy-paste the code into your IDE.
 
 ## Option 2: Using Replit
 
