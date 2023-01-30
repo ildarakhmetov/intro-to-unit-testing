@@ -1,9 +1,21 @@
-# Intro to Unit Testing
+# Intro to Unit Testing: Sample Lecture
 
-Files for the sample lecture.
+*by Ildar Akhmetov*
 
-Clone the repository or simply copy and paste the code into your IDE.
+## Option 1: Using local installation of Python
 
-You must have `pytest` installed to follow the lecture.
+Prerequisites:
 
-Run `pip install pytest` in your terminal to install `pytest`.
+* Python 3 installed (version 3.6 or higher)
+* Any IDE (e.g. VS Code, IDLE, Wing IDE etc.)
+* `pytest` installed (run `pip install pytest` in your terminal to install `pytest`.)
+
+Fork this GitHub repository above, or simply use it in your browser and copy-paste the code into your IDE.
+
+## Option 2: Using Replit
+
+Prerequisites:
+
+* Replit account (free)
+
+Fork the Replit: <https://replit.com/@ildarakhmetov0/IntroToUnitTesting>
